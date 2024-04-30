@@ -106,6 +106,7 @@
 				02718D502BDEEBFA00D277E4 /* ViewController.swift */,
 				02718D522BDEEBFA00D277E4 /* Main.storyboard */,
 				02718D552BDEEBFB00D277E4 /* Assets.xcassets */,
+				02718DBA2BE078D500D277E4 /* Images */,
 				02718D572BDEEBFB00D277E4 /* LaunchScreen.storyboard */,
 				02718D5A2BDEEBFB00D277E4 /* Info.plist */,
 				02718D7C2BDEF44400D277E4 /* GoodJokeViewController.swift */,
@@ -128,6 +129,13 @@
 				02718D6F2BDEEBFB00D277E4 /* iKidUITestsLaunchTests.swift */,
 			);
 			path = iKidUITests;
+			sourceTree = "<group>";
+		};
+		02718DBA2BE078D500D277E4 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
